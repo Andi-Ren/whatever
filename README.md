@@ -4,3 +4,8 @@
 - Shanghai
 - Hongkong
 - Beijing
+
+# My Favorite Locales
+- Big Ben
+- Bird Nest
+- Disneyland
